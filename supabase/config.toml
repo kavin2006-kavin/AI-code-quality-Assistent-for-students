@@ -1,0 +1,7 @@
+project_id = "fvnmlzmxoqcaksicoykd"
+
+[functions.code-mentor]
+verify_jwt = false
+
+[functions.analyze-code]
+verify_jwt = false
